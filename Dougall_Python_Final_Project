@@ -2466,7 +2466,7 @@
         "import googleapiclient.discovery\n",
         "\n",
         "# Replace with your own API key and video ID\n",
-        "api_key = 'AIzaSyApgu78mpZPbFmcWTkbKnnmTRe7HO-ruig'\n",
+        "api_key = 'YOUR_API_KEY_HERE'",
         "video_id = 'kLMMxgtxQ1Y'\n",
         "\n",
         "# Set up the YouTube Data API client\n",
