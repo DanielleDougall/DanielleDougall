@@ -103,7 +103,7 @@
         "import googleapiclient.discovery\n",
         "import pandas as pd\n",
         "\n",
-        "API_KEY = 'AIzaSyApgu78mpZPbFmcWTkbKnnmTRe7HO-ruig'\n",
+        "API_KEY = 'YOUR_API_KEY_HERE'",
         "VIDEO_ID = 'kLMMxgtxQ1Y'\n",
         "\n",
         "def extract_all_comments(video_id, api_key, max_results=1274):\n",
